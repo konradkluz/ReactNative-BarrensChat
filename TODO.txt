@@ -1,0 +1,24 @@
+
+
+sprawdzic czy powinno sie wylogowywac z sociali przy logoucie, czy one nie dziela ze soba sdk i czy jak sie wyloguje
+od nas z appy czy nie wyloguje z innych appek
+
+
+przy zaladowniu appki przez przez kabel na alka devicsie google sie nie konigurowalo za pierwszym razm , sprawdzicz czy na re
+lasie tez tak bedzie
+
+
+
+dodac pisanie czatow horyzontalnie
+
+
+jezeli jest online to ikonka frienda jest kwadratowa, jezeli offline to jest okrlagla
+
+
+
+mozliwosc ogladanie wszystkich roomow na swiecie z roomMapa
+
+
+deinicjalizacja room mapa na room backgroundzie,
+
+

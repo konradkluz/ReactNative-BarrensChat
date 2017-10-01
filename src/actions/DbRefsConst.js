@@ -1,0 +1,12 @@
+export const PUBLIC_ROOMS_REF = '/rooms';
+export const PRIVATE_ROOMS_REF = '/rooms/privates';
+export const USERS_IN_ROOM = '/usersInRoom';
+export const SUBSCRIBED_ROOMS = '/subscribedRooms';
+export const MESSAGES_REF = '/messages';
+export const USERS_REF ='/users';
+export const RECEIVED_INVITATIONS_REF = '/friends/receivedInvitations/';
+export const SENT_INVITATIONS_REF = '/friends/invitationsSent';
+export const USER_ROOMS = '/userRooms';
+export const ALL_ROOMS_LOC_REF = '/roomsLocations/all';
+export const USER_TOKENS_REF = '/userFCMTokens';
+export const INVITATIONS = '/invitations';

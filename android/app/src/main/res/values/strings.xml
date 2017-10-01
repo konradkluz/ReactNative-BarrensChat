@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Barrens</string>
+    <string name="facebook_app_id">1817715511824228</string>
+    <string name="fb_login_protocol_scheme">fb1817715511824228</string>
+</resources>
